@@ -1,2 +1,2 @@
-# ExcelHomework
-Homework For Excel Assignments
+# ExcelAssignment
+Excel Assignments
